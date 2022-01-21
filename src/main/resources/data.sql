@@ -1,0 +1,4 @@
+INSERT INTO BOOK VALUES (1000001, 'Ram', '10', 'Nani'); 
+INSERT INTO BOOK VALUES (1000002, 'Swapna', '10','Sappu'); 
+INSERT INTO BOOK VALUES (1000003, 'Aashritha', '100', 'Aashu'); 
+INSERT INTO BOOK VALUES (1000004, 'Rishi', '1250', 'Raja'); 
